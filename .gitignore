@@ -12,6 +12,13 @@ target/
 *.iml
 *.ipr
 
+
+# Ignore the entire .idea folder
+.idea/
+
+# Ignore specific XML files
+*.xml
+
 ### Eclipse ###
 .apt_generated
 .classpath
