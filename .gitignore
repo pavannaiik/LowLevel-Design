@@ -16,6 +16,7 @@ target/
 # Ignore the entire .idea folder
 .idea/
 
+
 # Ignore specific XML files
 *.xml
 
